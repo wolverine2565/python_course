@@ -1,1 +1,1 @@
-# python_corse
+# python_course
